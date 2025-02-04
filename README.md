@@ -91,11 +91,3 @@ This Terraform configuration sets up two Virtual Private Clouds (VPCs), subnets 
 - Be sure to replace the AMI IDs (`ami-0c55b159cbfafe1f0`) with your desired AMIs for the EC2 instances.
 - Modify instance types as necessary for your needs.
 
-## Troubleshooting
-
-- If the resources are not being created, check the AWS account limits for VPCs, subnets, EC2 instances, and security groups.
-- Ensure your AWS credentials are configured correctly.
-
-## License
-
-This project is licensed under the MIT License.
